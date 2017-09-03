@@ -1,0 +1,8 @@
+GetNewFactIntent goodbye
+GetNewFactIntent so long
+GetNewFactIntent peace out
+GetNewFactIntent bye bye
+GetNewFactIntent bye
+GetNewFactIntent until next time
+GetNewFactIntent later gator
+GetNewFactIntent later
