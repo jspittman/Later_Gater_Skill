@@ -11,7 +11,7 @@ var APP_ID = "amzn1.ask.skill.d4a390f3-07b8-4ad6-a863-39d8b1db8225";
 
 var SKILL_NAME = "Later Gator";
 var GET_FACT_MESSAGE = "";
-var HELP_MESSAGE = "Just say later gator?";
+var HELP_MESSAGE = "Just say later gator.";
 var HELP_REPROMPT = "Need help?";
 var STOP_MESSAGE = "";
 
@@ -24,9 +24,16 @@ var data = [
     "Sure of that, pussycat",
     "Fo' sho', buffalo",
     "Time to shoo, kangaroo",
-    "Down the line porcupine",
+    "Down the line<break time='.4s'/>porcupine",
     "later, po-tater",
-    "Sure of that, pussycat"
+    "Sure of that, pussycat",
+    "Gotta spin, terrapin",
+    "<emphasis level='strong'>Peace</emphasis> be with you",
+    "See you soon you big baboon",
+    "in an hour, sunflower",
+    "toodle, poodle",
+    "Take care, polar bear",
+    "after a while, crocodile"
 ];
 
 //=========================================================================================================================================
